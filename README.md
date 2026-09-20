@@ -1,1 +1,2 @@
 # odin-recipes
+hello guys here is a new odin-recipe project that i'm anbout to build during my odin lessons and i hope one day when someone visits my repositoryyou will know how far i have come. the journey i took becoming a fullstack developer. so basically this is the end of html starter lessons project .
